@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Image-Gallery/static/css/main.e56a49e6.chunk.css",
+    "main.js": "/Image-Gallery/static/js/main.76dfe506.chunk.js",
+    "main.js.map": "/Image-Gallery/static/js/main.76dfe506.chunk.js.map",
+    "runtime-main.js": "/Image-Gallery/static/js/runtime-main.277dd459.js",
+    "runtime-main.js.map": "/Image-Gallery/static/js/runtime-main.277dd459.js.map",
+    "static/js/2.9eec4e5e.chunk.js": "/Image-Gallery/static/js/2.9eec4e5e.chunk.js",
+    "static/js/2.9eec4e5e.chunk.js.map": "/Image-Gallery/static/js/2.9eec4e5e.chunk.js.map",
+    "index.html": "/Image-Gallery/index.html",
+    "precache-manifest.ea23a741d198a55051806cdaa4f579e1.js": "/Image-Gallery/precache-manifest.ea23a741d198a55051806cdaa4f579e1.js",
+    "service-worker.js": "/Image-Gallery/service-worker.js",
+    "static/css/main.e56a49e6.chunk.css.map": "/Image-Gallery/static/css/main.e56a49e6.chunk.css.map",
+    "static/js/2.9eec4e5e.chunk.js.LICENSE.txt": "/Image-Gallery/static/js/2.9eec4e5e.chunk.js.LICENSE.txt",
+    "static/media/pexels-binyamin-mellish-106399.jpg": "/Image-Gallery/static/media/pexels-binyamin-mellish-106399.7106926c.jpg",
+    "static/media/pexels-chevanon-photography-1108099.jpg": "/Image-Gallery/static/media/pexels-chevanon-photography-1108099.7f75b2f5.jpg",
+    "static/media/pexels-gord-maclean-750697.jpg": "/Image-Gallery/static/media/pexels-gord-maclean-750697.ea0eec73.jpg",
+    "static/media/pexels-marc-onana-5823764.jpg": "/Image-Gallery/static/media/pexels-marc-onana-5823764.358663c8.jpg",
+    "static/media/pexels-mehmet-turgut-kirkgoz-11693940.jpg": "/Image-Gallery/static/media/pexels-mehmet-turgut-kirkgoz-11693940.622ba74c.jpg",
+    "static/media/pexels-pixabay-247431.jpg": "/Image-Gallery/static/media/pexels-pixabay-247431.1db626e5.jpg",
+    "static/media/pexels-pixabay-45853.jpg": "/Image-Gallery/static/media/pexels-pixabay-45853.a785fd99.jpg",
+    "static/media/pexels-samer-daboul-2581153.jpg": "/Image-Gallery/static/media/pexels-samer-daboul-2581153.9dde38a1.jpg",
+    "static/media/pexels-sevenstorm-juhaszimrus-402556.jpg": "/Image-Gallery/static/media/pexels-sevenstorm-juhaszimrus-402556.525c28ad.jpg",
+    "static/media/pexels-trygve-finkelsen-2893177.jpg": "/Image-Gallery/static/media/pexels-trygve-finkelsen-2893177.fe289da3.jpg",
+    "static/media/pexels-zhang-kaiyv-6702288.jpg": "/Image-Gallery/static/media/pexels-zhang-kaiyv-6702288.c1d2454e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.277dd459.js",
+    "static/js/2.9eec4e5e.chunk.js",
+    "static/css/main.e56a49e6.chunk.css",
+    "static/js/main.76dfe506.chunk.js"
+  ]
+}
